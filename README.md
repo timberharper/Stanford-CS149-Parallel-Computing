@@ -433,3 +433,6 @@ Please tell the CAs to look for your extra credit in your write-up. When handed 
 -  Intel provides a lot of supporting material about AVX2 vector instructions at
   <http://software.intel.com/en-us/avx/>.  
 -  The [Intel Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/) is very useful.
+
+# Stanford-CS149-Parallel-Computing
+
